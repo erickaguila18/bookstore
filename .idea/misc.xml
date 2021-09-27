@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Erick Aguila/Documents/hackerrank/94508b66-b7e8-4092-b2fa-39201fa7d6ff/app/src/main/res/drawable/drawable_list_item.xml" value="0.2203125" />
+        <entry key="..\:/Users/Erick Aguila/Documents/hackerrank/94508b66-b7e8-4092-b2fa-39201fa7d6ff/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Erick Aguila/Documents/hackerrank/94508b66-b7e8-4092-b2fa-39201fa7d6ff/app/src/main/res/layout/header.xml" value="0.1408514492753623" />
+        <entry key="..\:/Users/Erick Aguila/Documents/hackerrank/94508b66-b7e8-4092-b2fa-39201fa7d6ff/app/src/main/res/layout/list_item_books.xml" value="0.1408514492753623" />
+        <entry key="..\:/Users/Erick Aguila/Documents/hackerrank/94508b66-b7e8-4092-b2fa-39201fa7d6ff/app/src/main/res/layout/list_item_news.xml" value="0.1068840579710145" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
